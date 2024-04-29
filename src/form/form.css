@@ -1,0 +1,19 @@
+.loader{
+    z-index: 999;
+    background-color: rgb(0 0 0 / 80%);
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spinner-border{
+    border-color: #fff;
+    border-right-color: transparent;
+}
+
+.error{
+    color: red;
+    text-align: start;
+}
